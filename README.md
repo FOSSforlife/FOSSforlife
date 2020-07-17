@@ -33,6 +33,7 @@ If you're interested in joining the team or contributing, [reach out to me](#con
 - Desktop Linux
 - Spotify
 - Music recommendation/analysis algorithms
+- Data science
 
 ### Other Projects?
 
