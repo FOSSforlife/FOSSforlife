@@ -38,7 +38,7 @@ If you're interested in joining the team or contributing, [reach out to me](#con
 ### Other Projects?
 
 #### Podcast
-Outside of coding, I also host a [podcast](https://soundcloud.com/listeningcircle/) with my friends where we talk about (...can you guess?) music! I store the episode metadata in a JSON file and have a script that generates the podcast RSS from it and deploys it to Netlify. The episodes are hosted on DigitalOcean Spaces.
+Outside of coding, I also host a [podcast](https://soundcloud.com/listeningcircle/) with my friends where we talk about (...can you guess?) music! I store the episode metadata in a [JSON file](https://github.com/FOSSforlife/podcast-site/blob/master/src/assets/data/episodes.json) and have a script that generates the podcast RSS from it and deploys it to Netlify. The episodes are hosted on DigitalOcean Spaces.
 
 #### Musicmaking
 I play drums, bass, and piano. Most of my musical creation is through live jams with my friends (as well as random noodling in Ableton/Serum), but I have also played in a few bands in the past. In 2019, I played drums in the noisecore band Christian Lovers, and while I was in the band we played several improvised live shows, recorded an [EP](https://christianlovers.bandcamp.com/album/bullshit-market-christian-lovers-split) and got to play a live set on [UCLA Radio](https://soundcloud.com/uclaradio/christain-lovers-live-ucla-radio). I also recorded drums for a friend of mine's post-rock solo project
