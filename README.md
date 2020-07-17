@@ -27,6 +27,7 @@ If you're interested in joining the team or contributing, reach out to me on Twi
 - Writing wavetables in code (trying to learn syntax for u-He Hive, Vital, and Serum)
 - Editing video in code ([editly](https://github.com/mifi/editly))
 - Desktop Linux
+- Spotify
 
 ### Other Projects?
 
