@@ -6,7 +6,10 @@ I'm a TypeScript/Node.js software developer in Portland, OR, currently employed 
 A project of mine that is currently transitioning from the brainstorming stage to early prototyping (though there is much overlap) is [Patrician](https://github.com/patricianapp/patrician), a web application and GraphQL API for organizing and sharing your physical and/or digital album collection. Its biggest inspiration is RateYourMusic.com (soon to be Sonemic), but its key difference is that it will be heavily profile-focused. Setting it apart from other music collection sites, it will feature expressive profile customization, easy importing from music players/profiles/text files, advanced querying through the search bar and API, and Last.fm integration.
 
 This is planned to be a huge project which will require lots of hard work and talent. Soon, I will be recruiting other developers who share my passion for music collection. Here's the tech stack I plan on using:
-- Frontend: [Next.js](https://nextjs.org/) (React), [TypeScript](https://www.typescriptlang.org/), [Apollo Client](https://www.apollographql.com/docs/react/)
+- Frontend: 
+  - [Next.js](https://nextjs.org/) (React)
+  - [TypeScript](https://www.typescriptlang.org/)
+  - [Apollo Client](https://www.apollographql.com/docs/react/)
 - API: [Warthog](github.com/goldcaddy77/warthog) ([TypeORM](https://typeorm.io/) + [TypeGraphQL](https://typegraphql.com/))
 - Serverless Functions: Most likely TypeScript (for importing large collections)
 - Database: [Amazon Aurora Postgres](https://aws.amazon.com/rds/aurora)
@@ -16,18 +19,20 @@ This is planned to be a huge project which will require lots of hard work and ta
   - Functions: [AWS Lambda](https://aws.amazon.com/lambda/)
     - Amazon MQ or SQS for queueing
 
-If you're interested in joining the team or contributing, reach out to me on Twitter (@EJthecoder) and take a look at the [GitHub repos](https://github.com/patricianapp). We use ZenHub as our project management tool, which allows unlimited team members for free. 
+If you're interested in joining the team or contributing, [reach out to me](#contact) and take a look at the [GitHub repos](https://github.com/patricianapp). We use [ZenHub](https://www.zenhub.com/) as our project management tool, which allows unlimited team members for free. 
 
 ### Side projects
 - [Harmonia](https://github.com/patricianapp/Harmonia): A Discord bot for sharing and listening to music, as well as posting Last.fm charts and stats (it is based on FMCord, a Last.fm bot). Songs can be shared from YouTube and Spotify, and can automatically be cross-posted to a subreddit and a Spotify playlist. In addition, there is a leaderboard feature which posts the top-voted songs in the Discord server by day, week, or month.
 
 ### Interests
+- Open source
 - E-learning (that's what the company I work for specializes in!)
 - Writing music in code (haven't delved into it yet, but there are some [promising](https://github.com/alda-lang/alda) [tools](https://github.com/sonic-pi-net/sonic-pi) [out](https://github.com/ales-tsurko/cells) [there](https://github.com/flipcoder/textbeat))
 - Writing wavetables in code (trying to learn syntax for u-He Hive, Vital, and Serum)
 - Editing video in code ([editly](https://github.com/mifi/editly))
 - Desktop Linux
 - Spotify
+- Music recommendation/analysis algorithms
 
 ### Other Projects?
 
