@@ -13,7 +13,7 @@ This is planned to be a huge project which will require lots of hard work and ta
 - API: [Warthog](https://github.com/goldcaddy77/warthog) ([TypeORM](https://typeorm.io/) + [TypeGraphQL](https://typegraphql.com/))
 - Serverless Functions: Most likely TypeScript/Node
   - This will be where large imports are made, so that they don't clog up the main thread
-- Database: [Amazon Aurora Postgres](https://aws.amazon.com/rds/aurora)
+- Database: [Amazon Aurora (Postgres)](https://aws.amazon.com/rds/aurora)
 - Deployment: 
   - UI: [Vercel](https://vercel.com)
   - API: Probably [Heroku](https://www.heroku.com/) at first, may eventually use AWS services
