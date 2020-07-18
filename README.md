@@ -10,12 +10,13 @@ This is planned to be a huge project which will require lots of hard work and ta
   - [Next.js](https://nextjs.org/) (React)
   - [TypeScript](https://www.typescriptlang.org/)
   - [Apollo Client](https://www.apollographql.com/docs/react/)
-- API: [Warthog](github.com/goldcaddy77/warthog) ([TypeORM](https://typeorm.io/) + [TypeGraphQL](https://typegraphql.com/))
-- Serverless Functions: Most likely TypeScript (for importing large collections)
+- API: [Warthog](https://github.com/goldcaddy77/warthog) ([TypeORM](https://typeorm.io/) + [TypeGraphQL](https://typegraphql.com/))
+- Serverless Functions: Most likely TypeScript/Node
+  - This will be where large imports are made, so that they don't clog up the main thread
 - Database: [Amazon Aurora Postgres](https://aws.amazon.com/rds/aurora)
 - Deployment: 
   - UI: [Vercel](https://vercel.com)
-  - API: Probably [Heroku](https://www.heroku.com/), may eventually use AWS services
+  - API: Probably [Heroku](https://www.heroku.com/) at first, may eventually use AWS services
   - Functions: [AWS Lambda](https://aws.amazon.com/lambda/)
     - Amazon MQ or SQS for queueing
 
