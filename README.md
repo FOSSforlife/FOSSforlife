@@ -20,7 +20,7 @@ This is planned to be a huge project which will require lots of hard work and ta
   - Functions: [AWS Lambda](https://aws.amazon.com/lambda/)
     - Amazon MQ or SQS for queueing
 
-If you're interested in joining the team or contributing, [reach out to me](#contact) and take a look at the [GitHub repos](https://github.com/patricianapp). We use [ZenHub](https://www.zenhub.com/) as our project management tool, which allows unlimited team members for free. 
+If you're interested in joining the team or contributing, [reach out to me](#contact) and take a look at the [GitHub repos](https://github.com/patricianapp). We use [ZenHub](https://www.zenhub.com/) as our project management tool, which allows unlimited team members for free since it's an open source project. 
 
 ### Side projects
 - [Harmonia](https://github.com/patricianapp/Harmonia): A Discord bot for sharing and listening to music, as well as posting Last.fm charts and stats (it is based on FMCord, a Last.fm bot). Songs can be shared from YouTube and Spotify, and can automatically be cross-posted to a subreddit and a Spotify playlist. In addition, there is a leaderboard feature which posts the top-voted songs in the Discord server by day, week, or month.
