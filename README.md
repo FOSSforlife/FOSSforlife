@@ -2,7 +2,7 @@
 
 I'm a TypeScript/Node.js software developer in Portland, OR, currently employed at [OpenSesame](https://www.linkedin.com/company/opensesame_2/). I am passionate about listening to, organizing, and making music, and much of my programming is related to that.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fossforlife&hide_title=true&theme=radical)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fossforlife&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/fossforlife)  
 
