@@ -6,7 +6,9 @@ I'm a TypeScript/Node.js software developer in Portland, OR, currently employed 
 
 ![Profile views](https://gpvc.arturio.dev/fossforlife)  
 
-### Ongoing main project: Patrician
+### Ongoing main project
+[![Patrician](https://github-readme-stats.vercel.app/api/pin/?username=patricianapp&repo=patrician)](https://github.com/patricianapp/patrician)
+
 A project of mine that is currently transitioning from the brainstorming stage to early prototyping (though there is much overlap) is [Patrician](https://github.com/patricianapp/patrician), a web application and GraphQL API for organizing and sharing your physical and/or digital album collection. Its biggest inspiration is RateYourMusic.com (or, as it will soon be named, Sonemic), but its key difference is that it will be heavily profile-focused. Setting it apart from other music collection sites, it features expressive profile customization, easy importing from music players/online profiles/text files, advanced querying through the search bar and API, and Last.fm integration.
 
 This is planned to be a huge project which will require lots of hard work and talent. Soon, I will be recruiting other developers who share my passion for music collection. Here's the tech stack I plan on using:
