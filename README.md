@@ -57,6 +57,7 @@ Interested in contributing to one of my projects? Need a TypeScript developer? W
 - [My (mostly music-focused) Discord server](https://discord.gg/5cebBT7) (you must introduce yourself if you join!)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fossforlife&show_icons=true)
+
 ![Profile views](https://gpvc.arturio.dev/fossforlife)  
 
 <!--
