@@ -2,8 +2,6 @@
 
 I'm a TypeScript/Node.js software developer in Portland, OR, currently employed at [OpenSesame](https://www.linkedin.com/company/opensesame_2/). I am passionate about listening to, organizing, and making music, and much of my programming is related to that.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fossforlife&show_icons=true)![Profile views](https://gpvc.arturio.dev/fossforlife)  
-
 ### Ongoing main project: Patrician
 A project of mine that is currently transitioning from the brainstorming stage to early prototyping (though there is much overlap) is [Patrician](https://github.com/patricianapp/patrician), a web application and GraphQL API for organizing and sharing your physical and/or digital album collection. Its biggest inspiration is RateYourMusic.com (or, as it will soon be named, Sonemic), but its key difference is that it will be heavily profile-focused. Setting it apart from other music collection sites, it features expressive profile customization, easy importing from music players/online profiles/text files, advanced querying through the search bar and API, and Last.fm integration.
 
@@ -58,7 +56,8 @@ Interested in contributing to one of my projects? Need a TypeScript developer? W
 - [Facebook](https://www.facebook.com/elias.jackson2)
 - [My (mostly music-focused) Discord server](https://discord.gg/5cebBT7) (you must introduce yourself if you join!)
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=fossforlife&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/fossforlife)  
 
 <!--
 **FOSSforlife/FOSSforlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
