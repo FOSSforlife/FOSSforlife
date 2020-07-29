@@ -15,6 +15,7 @@ This is planned to be a huge project which will require lots of hard work and ta
 - Frontend: 
   - [Next.js](https://nextjs.org/) (React)
   - [TypeScript](https://www.typescriptlang.org/)
+  - [Material-UI](https://material-ui.com/)
   - [Apollo Client](https://www.apollographql.com/docs/react/)
 - API: [Warthog](https://github.com/goldcaddy77/warthog) ([TypeORM](https://typeorm.io/) + [TypeGraphQL](https://typegraphql.com/))
 - Serverless Functions: Most likely TypeScript/Node
