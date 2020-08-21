@@ -62,6 +62,9 @@ Interested in contributing to one of my projects? Need a TypeScript developer? W
 - [Twitter](https://twitter.com/ejthecoder)
 - [Facebook](https://www.facebook.com/elias.jackson2)
 - [My (mostly music-focused) Discord server](https://discord.gg/5cebBT7) (you must introduce yourself if you join!)
+- [Last.fm](https://www.last.fm/user/elias-jackson2)
+- [RateYourMusic](https://rateyourmusic.com/~ejackson)
+- [Spotify](https://open.spotify.com/user/l4xz9k88ino2imr81wom61l1y?si=U2OMKaQRTjip57BNDXNrug)
 
 
 
