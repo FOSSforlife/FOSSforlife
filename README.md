@@ -59,7 +59,7 @@ Since moving to Portland in Jan 2020 and working full-time as a developer (not t
 ### Contact
 Interested in contributing to one of my projects? Need a TypeScript developer? Want to make music? Feel free to contact me about anything.
 - Email: ejthedj0@gmail.com
-- [Twitter](https://twitter.com/ejthecoder)
+- [Twitter](https://twitter.com/rational_ej)
 - [Facebook](https://www.facebook.com/elias.jackson2)
 - [My (mostly music-focused) Discord server](https://discord.gg/5cebBT7) (you must introduce yourself if you join!)
 - [Last.fm](https://www.last.fm/user/elias-jackson2)
