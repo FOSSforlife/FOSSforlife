@@ -36,7 +36,7 @@ If you're interested in joining the team or contributing, [reach out to me](#con
 ### Interests
 - Open source
 - E-learning (that's what the company I work for specializes in!)
-- Writing music in code (haven't delved into it yet, but there are some [promising](https://github.com/alda-lang/alda) [tools](https://github.com/sonic-pi-net/sonic-pi) [out](https://github.com/ales-tsurko/cells) [there](https://github.com/flipcoder/textbeat))
+- Writing music in code (currently learning about SuperCollider, VCV Rack, Pure Data, Alda, and JavaScript MIDI libraries)
 - Writing wavetables in code (trying to learn syntax for u-He Hive, Vital, and Serum)
 - Editing video in code ([editly](https://github.com/mifi/editly))
 - Desktop Linux
