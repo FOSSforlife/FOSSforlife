@@ -31,6 +31,7 @@ If you're interested in joining the team or contributing, [reach out to me](#con
 
 ### Side projects
 - [Harmonia](https://github.com/patricianapp/Harmonia): A Discord bot for sharing and listening to music, as well as posting Last.fm charts and stats (it is based on [FMCord](https://github.com/kometh0616/fmcord), a Last.fm bot). Songs can be shared from YouTube and Spotify, and can automatically be cross-posted to a subreddit and a Spotify playlist. In addition, there is a leaderboard feature which posts the top-voted songs in the Discord server by day, week, or month.
+- [Omniscience](https://github.com/FOSSforlife/omniscience): A Discord bot for looking up Wikipedia articles and other research info. Still a work in progress. Contributors welcome! :) 
 
 ### Interests
 - Open source
