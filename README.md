@@ -8,7 +8,7 @@ I'm a TypeScript/Node.js software developer in Portland, OR, [currently employed
 
 ## Coding projects
 
-These are mostly on hold right now, as my main focuses right now are my [job](https://www.opensesame.com/site/blog/employee-spotlight-elias-jackson/) and my [music projects](#music).
+These are mostly on hold, as my main focuses right now are my [job](https://www.opensesame.com/site/blog/employee-spotlight-elias-jackson/) and my [music projects](#music).
 
 ### Websites
 
