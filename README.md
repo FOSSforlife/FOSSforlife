@@ -13,7 +13,7 @@ These are mostly on hold, as my main focuses right now are my [job](https://www.
 ### Websites
 
 - [Patrician](https://github.com/patricianapp): A web application and GraphQL API for organizing and sharing your physical and/or digital album collection. Its biggest inspiration is RateYourMusic.com, but its key difference is that it will be heavily profile-focused. Setting it apart from other music collection sites, it features expressive profile customization, easy importing from music players/online profiles/text files, advanced querying through the search bar and API, and Last.fm integration.
-- [Resources](https://github.com/FOSSforlife/resources): An attempt at creating a personal bookmark manager organized by topic which also includes embedded Wikipedia articles, breadcrumb navigation, and search. The idea was that V1 would be a static site generated from YAML files and V2 would potentially make use of a real database and API so that I could add bookmarks using the site itself.
+- [Resources](https://github.com/FOSSforlife/resources): An attempt at creating a personal bookmark manager organized by topic which also includes embedded Wikipedia articles, breadcrumb navigation, and search. The idea was that V1 would be a static site generated from YAML files, [EJS](https://ejs.co) templates, and a [custom build script](https://github.com/FOSSforlife/resources/blob/main/build.js), and V2 would potentially make use of a real database and API so that I could add bookmarks using the site itself.
 
 ### Discord Bots
 
