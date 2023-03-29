@@ -14,6 +14,7 @@ These are mostly on hold, as my main focuses right now are my [job](https://www.
 
 - [Patrician](https://github.com/patricianapp): A web application and GraphQL API for organizing and sharing your physical and/or digital album collection. Its biggest inspiration is RateYourMusic.com, but its key difference is that it will be heavily profile-focused. Setting it apart from other music collection sites, it features expressive profile customization, easy importing from music players/online profiles/text files, advanced querying through the search bar and API, and Last.fm integration.
 - [Resources](https://github.com/FOSSforlife/resources): An attempt at creating a personal bookmark manager organized by topic which also includes embedded Wikipedia articles, breadcrumb navigation, and search. The idea was that V1 would be a static site generated from YAML files, [EJS](https://ejs.co) templates, and a [custom build script](https://github.com/FOSSforlife/resources/blob/main/build.js), and V2 would potentially make use of a real database and API so that I could add bookmarks using the site itself.
+- [Album Voting](https://github.com/FOSSforlife/listening-circle-voting-app): A quick site I put together for my music podcast to vote on which albums we want to review. Uses Google login via Firebase.
 
 ### Discord Bots
 
@@ -30,7 +31,7 @@ These are mostly on hold, as my main focuses right now are my [job](https://www.
 ### Libraries
 
 - [YouTube Album Search](https://github.com/FOSSforlife/youtube-album-search): Search **albums** (not songs or music videos) using YouTube's API.
-- [MBFC Node](https://github.com/solutions-podcast/mbfc-node): Get [MediaBiasFactCheck.com](https://mediabiasfactcheck.com) info for any site based on URL.
+- [MBFC Node](https://github.com/solutions-podcast/mbfc-node): Get [MediaBiasFactCheck.com](https://mediabiasfactcheck.com) info for any site based on article URL.
 
 ## Music
 
