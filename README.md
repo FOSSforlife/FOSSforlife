@@ -18,7 +18,7 @@ These are mostly on hold, as my main focuses right now are my [job](https://www.
 
 ### Discord Bots
 
-- [Article Bot](https://github.com/solutions-podcast/article-bot) (Discord.js, WOKCommands, MongoDB): A bot that my friends and I use for sharing articles for us to read and discuss.
+- [Article Bot Prime](https://github.com/FOSSforlife/article-bot-prime) (Discord.js, OpenAI): A bot that my friends and I use for sharing articles for us to read and discuss. Provides summaries and discussion questions using GPT-3.5. (Old version [here](https://github.com/solutions-podcast/article-bot)).
 - [Harmonia](https://github.com/patricianapp/Harmonia) (Eris, TypeORM): A bot for sharing and listening to music, as well as posting Last.fm charts and stats (it is based on [FMCord](https://github.com/kometh0616/fmcord), a Last.fm bot). Songs can be shared from YouTube and Spotify, and can automatically be cross-posted to a subreddit and a Spotify playlist. In addition, there is a leaderboard feature which posts the top-voted songs in the Discord server by day, week, or month.
 - [Omniscience](https://github.com/solutions-podcast/omniscience) (Discord.js, Discord Akairo): A bot for looking up Wikipedia articles and other research info.
 
