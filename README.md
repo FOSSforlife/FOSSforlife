@@ -8,8 +8,6 @@ I'm a TypeScript/Node.js software developer in Portland, OR, [currently employed
 
 ## Coding projects
 
-These are mostly on hold, as my main focuses right now are my [job](https://www.opensesame.com/site/blog/employee-spotlight-elias-jackson/) and my [music projects](#music).
-
 ### Websites
 
 - [Patrician](https://github.com/patricianapp) (React, Material UI, Next.js, GraphQL, NestJS, TypeORM, PostgreSQL): A web application and GraphQL API for organizing and sharing your physical and/or digital album collection. Its biggest inspiration is RateYourMusic.com, but its key difference is that it will be heavily profile-focused. Setting it apart from other music collection sites, it features expressive profile customization, easy importing from music players/online profiles/text files, advanced querying through the search bar and API, and Last.fm integration.
