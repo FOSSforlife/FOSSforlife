@@ -1,6 +1,10 @@
-### Hi there 👋🏾
+## Elias Jackson
 
-I'm a TypeScript/Node.js software developer in Portland, OR. I am passionate about listening to, organizing, and making music, and much of my programming is related to that.
+🤖 Software Engineer
+🎛️ Music Producer
+📝 Obsessive Note-taker
+🧠 Currently learning: Motion Graphics, Audio Plugin Development
+🎓 Degrees: B.S. in Computer Science (class of '19), Associate in Creative Coding (currently taking)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fossforlife&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
