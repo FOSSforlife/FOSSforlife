@@ -4,7 +4,9 @@
 - 🎛️ Music Producer
 - 📝 Obsessive Note-taker
 - 🧠 Currently learning: Motion Graphics, Audio Plugin Development
-- 🎓 Degrees: B.S. in Computer Science (class of '19), Associate in Creative Coding (currently taking)
+- 🎓 Degrees:
+  - B.S. in Computer Science at Cal State Fullerton (class of '19)
+  - Associate in Creative Coding at Portland Community College (currently taking)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fossforlife&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
