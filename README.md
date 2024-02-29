@@ -1,10 +1,10 @@
 ## Elias Jackson
 
-🤖 Software Engineer
-🎛️ Music Producer
-📝 Obsessive Note-taker
-🧠 Currently learning: Motion Graphics, Audio Plugin Development
-🎓 Degrees: B.S. in Computer Science (class of '19), Associate in Creative Coding (currently taking)
+- 🤖 Software Engineer
+- 🎛️ Music Producer
+- 📝 Obsessive Note-taker
+- 🧠 Currently learning: Motion Graphics, Audio Plugin Development
+- 🎓 Degrees: B.S. in Computer Science (class of '19), Associate in Creative Coding (currently taking)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fossforlife&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
