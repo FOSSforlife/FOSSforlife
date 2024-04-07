@@ -6,7 +6,7 @@
 - 🧠 Currently learning: Motion Graphics, Mobile Development, Audio Plugin Development
 - 🎓 Degrees:
   - B.S. in Computer Science at Cal State Fullerton (class of '19)
-  - Associate in Creative Coding at Portland Community College (currently taking)
+  - Associate in [Creative Coding and Immersive Technologies](https://www.pcc.edu/programs/music-and-sonic-arts/aas-creative-coding/) at Portland Community College (currently taking)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fossforlife&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
