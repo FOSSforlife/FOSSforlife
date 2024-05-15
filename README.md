@@ -1,4 +1,4 @@
-## Elias Jackson
+## Elias Jackson - Multimedia Software Engineer
 
 - 🤖 Software Engineer
 - 🎛️ Music Producer
