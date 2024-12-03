@@ -3,7 +3,7 @@
 - 🤖 Software Engineer
 - 🎛️ Music Producer
 - 📝 Obsessive Note-taker
-- 🧠 Currently learning: Motion Graphics, Mobile Development, Audio Plugin Development
+- 🧠 Currently learning: Motion Graphics, Audio Plugin Development, Low-Level Programming
 - 🎓 Degrees:
   - B.S. in Computer Science at Cal State Fullerton (class of '19)
   - Associate in [Creative Coding and Immersive Technologies](https://www.pcc.edu/programs/music-and-sonic-arts/aas-creative-coding/) at Portland Community College (currently taking)
